@@ -1,0 +1,5 @@
+basic_auth_users:
+    prometheus: $2y$12$4ozg0vThDXkBZydD5fBiXe9Mvp3FUbGU5QlHxcrFZJmaYDvGkRLgy 
+tls_server_config:
+  cert_file: prometheus.crt
+  key_file: prometheus.key
